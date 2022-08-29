@@ -1,0 +1,340 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.home{
+    background-color: white;
+}
+.navbar{
+    width: 100%;
+    height: 65px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar a{
+    text-decoration: none;
+    margin-right: 70px;
+    font-size: small;
+    color: white;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar .logo{
+    margin-right: auto;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.hero{
+    font-size: 20px;
+    margin-top: 10px;
+    padding-top: 10%;
+    text-align: left;
+    margin-left: 200px;
+}
+.hero button{
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: ease-out; 
+    padding: auto;
+    width: 100px;
+    margin: 10px;
+}
+.her{
+    content: flex;
+    text-align: right;
+    margin-top: -250px;
+}
+.wrapper h1{
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.team{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+.team .team_member{
+    margin: 6px;
+    margin-bottom: 50px;
+    width: auto;
+    padding: 10px;
+    line-height: 20px;
+    position: relative;
+}
+.team .teay{
+    margin: 6px;
+    margin-bottom: 50px;
+    width: auto;
+    padding: 10px;
+    line-height: 20px;
+    position: relative;
+}
+.team .teay h3{
+    font-size: 30px;
+    margin-top: 5px
+}
+.team .teay p.role{
+    font-size: 15px;
+    margin: 10px;
+    font-style: italic;
+}
+.team .team_member .team_img{
+    width: px;
+    height: 50px;
+    border-radius: 50px;
+}
+.team .team_member h3{
+    font-size: 30px;
+    margin-top: 140px;
+}   
+.team .team_member p.role{
+    font-size: 15px;
+    margin: 13px;
+    font-style: italic;
+}
+.wrapp h1{
+    font-size: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.heo{
+    text-align: left;
+    background-color: rgb(243, 204, 191);
+}
+.hro{
+    text-align: right;
+    margin-top: -250px;
+}
+.hro button{
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: auto;
+    border-radius: 10px;
+    transition: ease-out; 
+    cursor: auto;
+    padding: auto;
+    height: 20px;
+    transition: ease-out;
+    margin: 20px;
+}
+.hee{
+    text-align: center;
+    margin: 20px;
+}
+.hee button{
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: auto;
+    border-radius: 10px;
+    transition: ease-out; 
+    
+}
+.herd{
+    background: black;
+    color: white;
+}
+.herd p{
+    font-size: 16px;
+}
+.herc{
+    background: black;
+    color: white;
+    text-align: center;
+    margin-top: -70px;
+}
+.herc p{
+    font-size: 16px;
+}
+.herb{
+    background: rgb(20, 19, 16);
+    color: white;
+    text-align: right;
+    margin-top: -70px;
+}
+.hroa{
+    background-color: black;
+    text-align: right;
+    margin-left: -100px;
+}
+.ter{
+    margin-top: 200px;
+    text-align: inherit;
+    margin-left: 50px;
+}
+.ter button{
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: auto;
+    border-radius: 10px;
+    transition: ease-out; 
+}
+.tol{
+    text-align: right;
+    margin-top: -300px;
+}
+.eee{
+    text-align: center;
+    margin-top: 50px;
+}
+.qqqq{
+    text-align: center;
+    margin-top: 50px;
+}
+.feme{
+    text-align: center;
+    margin-top: 50px;
+}
+.yyyy{
+    margin-top: 50px;
+    padding: auto;
+    border: 50px;
+    background-color: antiquewhite;
+}
+.pppp{
+    text-align: center;
+    margin-top: 50px;
+}
+.rorr{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.wert{
+ text-align: center;   
+ margin-left: -500px;
+ margin-top: -74px;
+}
+.popp{
+    text-align: center;   
+    margin-left: 600px;
+    margin-top: -80px;
+}
+.oppp{
+    margin-right: -600px;
+    margin-top: -80px;
+}
+.mmmm{
+    text-align: left;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+.rttt{
+    text-align: center;
+    margin-left: -950px;
+    margin-top: -80px;
+}
+.lololo{
+    text-align: center;
+    margin-right: -600px;
+    margin-top: -80px;
+}
+.dodta{
+    margin-top: 200px;
+    text-align: inherit;
+    margin-left: 100px;   
+}
+.dodta button{
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: auto;
+    border-radius: 10px;
+    transition: ease-out; 
+}
+.popo{
+    text-align: right;
+    margin-top: -250px;
+}
+.weree{
+    margin-top: 50px;
+    background-color: blanchedalmond;
+    margin-left: 50px;
+}
+.reet{
+    text-align: right;
+    margin-top: -200px;
+}
+.reet button{
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: auto;
+    border-radius: 10px;
+    transition: ease-out; 
+}
+.kaak{
+    margin-top: 200px;
+    text-align: inherit;
+    margin-left: 100px;
+}
+.kaak button{
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: auto;
+    border-radius: 10px;
+    transition: ease-out; 
+}
+.pplop{
+    text-align: right;
+    margin-top: -200px;
+}
+.zeer{
+    text-align: center;
+    margin-top: 100px;
+}
+.zeer button{
+    background: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: auto;
+    border-radius: 10px;
+    transition: ease-out;  
+}
+.wasd{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.klass{
+    text-align: right;
+    margin-top: -100px;
+    margin-right: 50px;
+}
+.asds{
+    margin-top: 50px;
+    text-align: center;
+}
+.nav-list{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+    justify-content: space-between;
+    color: orange;
+}
